@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=PD_Player
+comment0.text=\n\ Write\ a\ description\ of\ class\ PD_Player\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=name
+comment1.target=PD_Player(java.lang.String)
+comment2.params=amountMove
+comment2.target=void\ movePlayer(int)
+comment3.params=position
+comment3.target=void\ setPosition(int)
+comment4.params=
+comment4.target=int\ getPosition()
+comment5.params=gainMoney
+comment5.target=void\ updateMoney(int)
+comment6.params=
+comment6.target=int\ getMoney()
+comment7.params=
+comment7.target=java.lang.String\ getName()
+comment8.params=
+comment8.target=void\ addBill()
+comment9.params=
+comment9.target=int\ payMoneyGram()
+numComments=10

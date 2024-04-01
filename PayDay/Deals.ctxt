@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Deals
+comment1.params=n\ c\ v
+comment1.target=Deals(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=void\ makeDeals()
+comment3.params=
+comment3.target=Deals\ pullDeal()
+numComments=4

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=PayDay
+comment1.params=
+comment1.target=PayDay()
+comment2.params=player
+comment2.target=void\ addPlayer(PD_Player)
+comment3.params=
+comment3.target=java.util.ArrayList\ getPlayers()
+comment4.params=
+comment4.target=void\ playRound()
+comment5.params=
+comment5.target=boolean\ isGameFinished()
+comment6.params=
+comment6.target=void\ printBoard()
+comment7.params=player\ space
+comment7.target=void\ handleSpaceAction(PD_Player,\ PD_Space)
+comment8.params=player\ mailCard
+comment8.target=void\ handleMailCard(PD_Player,\ PD_Mails)
+comment9.params=
+comment9.target=void\ movePlayers()
+numComments=10

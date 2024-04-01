@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PD_Board
+comment1.params=
+comment1.target=PD_Board()
+comment2.params=
+comment2.target=void\ initializeBoard()
+comment3.params=
+comment3.target=void\ initializeMailDeck()
+comment4.params=
+comment4.target=PD_Mails\ drawMailCard()
+comment5.params=
+comment5.target=void\ printBoard()
+comment6.params=position
+comment6.target=PD_Space\ getSpace(int)
+numComments=7
